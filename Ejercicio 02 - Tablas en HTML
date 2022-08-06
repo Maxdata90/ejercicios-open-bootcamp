@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ejercicio 02 - Tablas en HTML</title>
+</head>
+<body>
+    
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicacion</th>
+            <th>Enlace a amazon</th>
+        </tr>
+        <tr>
+            <td>Extreme ownership</td>
+            <td>Jocko Willinks</td>
+            <td>2015</td>
+            <td><a href="https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057">Comprar</a></td>
+        </tr>
+        <tr>
+            <td>1984</td>
+            <td>George Orwell</td>
+            <td>1949</td>
+            <td><a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934">Comprar</a></td>
+        </tr>
+        <tr>
+            <td>Marcus Aurelius</td>
+            <td>Meditations</td>
+            <td>1797</td>
+            <td><a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Comprar</a></td>
+        </tr>
+    </table>
+</body>
+</html>
